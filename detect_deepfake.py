@@ -69,6 +69,15 @@ def detect_face_deepfake(result_deepfake, frame, sess, detection_graph,
     th_faceswap = threading.Thread(target=detect_fake,
                                   args=(result_deepfake, 'faceswap', image, faceswap_sess, faceswap_detection_graph))
 
+    th_began = threading.Thread(target=detect_fake,
+                                   args=(result_deepfake, 'began', image, faceswap_sess, faceswap_detection_graph))
+    th_mwgan = threading.Thread(target=detect_fake,
+                                   args=(result_deepfake, 'mwgan', image, faceswap_sess, faceswap_detection_graph))
+    th_casualgan = threading.Thread(target=detect_fake,
+                                   args=(result_deepfake, 'casualgan', image, faceswap_sess, faceswap_detection_graph))
+    th_hat = threading.Thread(target=detect_fake,
+                                   args=(result_deepfake, 'hat', image, faceswap_sess, faceswap_detection_graph))
+
     th_alae.start()
     th_alae.join()
     th_stylegan.start()
@@ -77,6 +86,16 @@ def detect_face_deepfake(result_deepfake, frame, sess, detection_graph,
     th_stargan.join()
     th_faceswap.start()
     th_faceswap.join()
+    # th_began.start()
+    # th_began.join()
+    # th_mwgan.start()
+    # th_mwgan.join()
+    # th_casualgan.start()
+    # th_casualgan.join()
+    # th_hat.start()
+    # th_hat.join()
+
+
 
 #각 가짜 특징에 맞는 필터를 적용, 각 특징별 탐지 모델 동작시키는 클래스
 def detect_fake(result_deepfake, part, image, sess, detection_graph):
@@ -103,6 +122,22 @@ def detect_fake(result_deepfake, part, image, sess, detection_graph):
        f_image = filter_def.faceswap(image)
        label_str = fake_model_run(f_image, image, part,  part_list, sess, detection_graph)
 
+    elif 'began' in part:
+       # f_image = image
+       f_image = filter_def.faceswap(image)
+       label_str = fake_model_run(f_image, image, part,  part_list, sess, detection_graph)
+    elif 'mwgan' in part:
+       # f_image = image
+       f_image = filter_def.faceswap(image)
+       label_str = fake_model_run(f_image, image, part,  part_list, sess, detection_graph)
+    elif 'casualgan' in part:
+       # f_image = image
+       f_image = filter_def.faceswap(image)
+       label_str = fake_model_run(f_image, image, part,  part_list, sess, detection_graph)
+    elif 'hat' in part:
+       # f_image = image
+       f_image = filter_def.faceswap(image)
+       label_str = fake_model_run(f_image, image, part,  part_list, sess, detection_graph)
    
 
     

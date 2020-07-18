@@ -517,6 +517,14 @@ def CNN_Detector(img, img_name) :
                     stargan = result_deepfake[i] + ' '
                 if sentence_test.find('faceswap') != -1:
                     faceswap = result_deepfake[i] + ','
+                if sentence_test.find('began') != -1:
+                    faceswap = result_deepfake[i] + ','
+                if sentence_test.find('mwgan') != -1:
+                    faceswap = result_deepfake[i] + ','
+                if sentence_test.find('casualgan') != -1:
+                    faceswap = result_deepfake[i] + ','
+                if sentence_test.find('hat') != -1:
+                    faceswap = result_deepfake[i] + ','
 
             sentence_add = stylegan + stargan + faceswap + alae
 
