@@ -22,4 +22,4 @@ tensorflow object detection api [[github]](https://github.com/tensorflow/models/
 
 
 
-# RNN 학습에 필요한 데이터셋 및 detection 모델
+# RNN 학습에 필요한 데이터셋 및 모델
