@@ -6,10 +6,7 @@
 # Abstract
 
 # 코드 실행 방법
-
-python Main_thread.py
-
-
+<pre><code>python Main_thread.py</code></pre>
 
 
 # 학습 및 탐지 모델에 필요한 환경 및 라이브러리
