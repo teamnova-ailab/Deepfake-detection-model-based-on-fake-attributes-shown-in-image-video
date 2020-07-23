@@ -10,10 +10,14 @@
 
 
 # 학습 및 탐지 모델에 필요한 환경 및 라이브러리
+
 tensorflow 1.15.0
+
 tensorflow-gpu 1.15.0
-transformers [github](https://github.com/huggingface/transformers)
-tensorflow object detection api [github](https://github.com/tensorflow/models/tree/master/research/object_detection)
+
+transformers [[github]](https://github.com/huggingface/transformers)
+
+tensorflow object detection api [[github]](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
 
 
