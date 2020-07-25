@@ -17,8 +17,11 @@
 <pre><code>python Main_thread.py</code></pre>
 
 CNN Detector : 
-<pre><code>python </code></pre>
 
+이미지 탐지 
+<pre><code>python </code></pre>
+동영상 탐지
+<pre><code>python </code></pre>
 
 
 # 학습 및 탐지 모델에 필요한 환경 및 라이브러리
