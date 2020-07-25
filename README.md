@@ -1,7 +1,8 @@
 # [paper] Deepfake detection model based on fake attributes shown in image/video
-20.07.25 수정중
 
+## 20.07.25 수정중
 
+### 딥페이크 탐지 동작 동영상
 [![Video Label](https://img.youtube.com/vi/aixd8Egw-dA/hqdefault.jpg)](https://youtu.be/aixd8Egw-dA)
 
 # Abstract
@@ -12,16 +13,23 @@
 
 # 코드 실행 방법
 
-전체 탐지 모델 : 
+전체 탐지 모델(deepfake detector 폴더) : 
 <pre><code>python Main_thread.py</code></pre>
 
-CNN Detector : 
+CNN Detector(cnn detector 폴더) : 
 
+  model 폴더에 pb 파일추가  
+  labelmap 폴더에 pbtxt 파일추가
+  
 이미지 탐지 
-<pre><code>python </code></pre>
-동영상 탐지
-<pre><code>python </code></pre>
+<pre><code>python Object_detection_image.py</code></pre>
+이미지 탐지  + csv 파일 생성 
+<pre><code>python Object_detection_image.py > csv_file_name.csv</code></pre>
 
+동영상 탐지
+<pre><code>python Object_detection_video.py</code></pre>
+동영상 탐지 + csv 파일 생성 
+<pre><code>python Object_detection_video.py > csv_file_name.csv</code></pre>
 
 # 학습 및 탐지 모델에 필요한 환경 및 라이브러리
 
