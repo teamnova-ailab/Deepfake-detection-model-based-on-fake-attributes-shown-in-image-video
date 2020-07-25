@@ -12,7 +12,13 @@
 ![결과그림_통합4](https://user-images.githubusercontent.com/44520048/88448935-d94a9900-ce7d-11ea-9f42-93ed932432c9.png)
 
 # 코드 실행 방법
+
+전체 탐지 모델 : 
 <pre><code>python Main_thread.py</code></pre>
+
+CNN Detector : 
+<pre><code>python </code></pre>
+
 
 
 # 학습 및 탐지 모델에 필요한 환경 및 라이브러리
@@ -25,6 +31,14 @@ transformers [[github]](https://github.com/huggingface/transformers)
 
 tensorflow object detection api [[github]](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
+# CNN Detector 학습 방법 
+
+# CNN Detector 다운로드 
+
+# CNN Detector 발송 메일 주소 
+
+발송시 탐지한 deepfake 알고리즘 기재 및 .pb , .pbtxt , CNN Detector 테스트 파일 전송 부탁드립니다. 
+
+# Contributor
 
 
-# RNN 학습에 필요한 데이터셋 및 모델
