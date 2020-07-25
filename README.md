@@ -51,8 +51,15 @@ tensorflow object detection api [[github]](https://github.com/tensorflow/models/
 
 
 # CNN Detector 학습 방법 
- 1. tensorflow object detection api를 설치합니다.
- 2. 
+1. tensorflow object detection api를 설치합니다.
+2. [해당 튜토리얼](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)을 참고하여 tensorflow object detection api의 object detection 폴더와 튜토리얼의 일부 폴더 및 파일을 합칩니다.
+ ![폴더 통합](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/blob/master/doc/object_detection_directory.jpg)
+
+(출처 : TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10 깃허브)
+3. 학습시킬 데이터를 정하여 전처리 및 라벨링을 진행합니다.
+4. 사용하고 싶은 CNN Detector 모델을 [tensorflow object detection api 깃허브](https://github.com/tensorflow/models/tree/master/research)에서 다운 받습니다.
+5. [해당 튜토리얼](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)을 참고하여 학습데이터와 모델을 각각 폴더에 넣고 학습을 진행합니다.
+6. 학습 결과를 CNN Detector 폴더의 코더를 실행시켜 확인합니다.
 
 # CNN Detector 다운로드 
 : 딥페이크 탐지에 사용 가능한 CNN Detector를 다운받을 수 있습니다.
