@@ -1,6 +1,6 @@
 # [paper] Deepfake detection model based on fake attributes shown in image/video
 
-## 20.07.25 수정중
+## **20.07.25 수정중**
 
 ### 딥페이크 탐지 동작 동영상
 [![Video Label](https://img.youtube.com/vi/aixd8Egw-dA/hqdefault.jpg)](https://youtu.be/aixd8Egw-dA)
