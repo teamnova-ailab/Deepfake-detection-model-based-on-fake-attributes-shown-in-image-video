@@ -36,7 +36,7 @@ tensorflow object detection api [[github]](https://github.com/tensorflow/models/
 # CNN Detector 다운로드 
 
 # CNN Detector 발송 메일 주소 
-
+[teamnova.ailab@gmail.com](teamnova.ailab@gmail.com)
 발송시 탐지한 deepfake 알고리즘 기재 및 .pb , .pbtxt , CNN Detector 테스트 파일 전송 부탁드립니다. 
 
 # Contributor
