@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a703d43-1834-417a-a681-4778d2939ef9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object_detection_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Object_detection_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keep/f_blur_v1.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keep/f_blur_v1.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keep/f_blur_v2.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keep/f_blur_v2.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keep/nose_all.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keep/nose_all.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keep/nose_fr_resnet50_10192.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keep/nose_fr_resnet50_10192.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keep/nose_rfcn_res101.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keep/nose_rfcn_res101.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keep/nose_ssd_mobilenet1_v2.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keep/nose_ssd_mobilenetv1_16663.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keep/nose_ssd_mobilenetv1_16663.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keep/nose_ssd_v2.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelmap/beard_v2.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelmap/eye_bridge_v3.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelmap/eyes_ssd_inceptionv2_v1.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelmap/f_dotnoise_v4.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelmap/f_gridnoise.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelmap/m_closed_ssd.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelmap/mouth_v3.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelmap/mouth_v4.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelmap/nose_noise_v9.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelmap/nose_ssd_inception.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelmap/nose_v5_ssd_inception.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/beard_v2.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/eye_bridge_v3.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/eyes_ssd_inceptionv2_v1.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/f_dotnoise_v4.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/f_gridnoise.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/m_closed_ssd.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/mouth_v3.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/mouth_v4.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/nose_noise_v9.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/nose_ssd_inception.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/nose_v5_ssd_inception.pb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Test_detector" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>score</find>
+      <find>boxes_and_labels_on_image_array</find>
+      <find>visualize_boxes_and_labels_on_image_array</find>
+      <find>font</find>
+      <find>NUM_CLASSES</find>
+      <find>image</find>
+      <find>keyword</find>
+      <find>print</find>
+      <find>label_</find>
+      <find>start</find>
+      <find>frame</find>
+      <find>channel</find>
+      <find>crop_img</find>
+      <find>visual</find>
+      <find>visualize</find>
+      <find>str_</find>
+      <find>label_str</find>
+      <find>max_boxes_to_draw</find>
+      <find>green</find>
+      <find>color</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XxyiKhbpna6l0efsiqlRt1WviF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Parser" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace_python\Test_detector\object_detection" />
+      <recent name="C:\workspace_python\Test_detector\models" />
+      <recent name="C:\workspace_python\Test_detector\labelmap" />
+      <recent name="C:\workspace_python\Test_detector\bridge_v3" />
+      <recent name="C:\workspace_python\Test_detector\beard_chin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace_python\Test_detector\keep" />
+      <recent name="C:\workspace_python\Test_detector\models" />
+      <recent name="C:\workspace_python\Test_detector\eyes_ssd_v1" />
+      <recent name="C:\workspace_python\Test_detector\labelmap" />
+      <recent name="C:\workspace_python\Test_detector\eyes" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a703d43-1834-417a-a681-4778d2939ef9" name="Default Changelist" comment="" />
+      <created>1578044529386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578044529386</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1007" y="116" key="CommitChangelistDialog2" timestamp="1582044913721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1007" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582044913721" />
+    <state x="1138" y="275" key="FileChooserDialogImpl" timestamp="1582013584371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1138" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582013584371" />
+    <state x="859" y="162" key="SettingsEditor" timestamp="1582002181649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="859" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582002181649" />
+    <state x="950" y="256" key="Vcs.Push.Dialog.v2" timestamp="1582044961387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="950" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582044961387" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/label_map_util.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
