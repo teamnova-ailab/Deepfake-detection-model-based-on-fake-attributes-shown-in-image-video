@@ -31,15 +31,25 @@ transformers [[github]](https://github.com/huggingface/transformers)
 
 tensorflow object detection api [[github]](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
+
 # CNN Detector 학습 방법 
+ 1. tensorflow object detection api를 설치합니다.
+ 2. 
 
 # CNN Detector 다운로드 
+: 딥페이크 탐지에 사용 가능한 CNN Detector를 다운받을 수 있습니다.
+
+[Google drive](https://drive.google.com/drive/folders/1r7e7sbfoyVV-INuTLlTw8CoZvBESRWS5?usp=sharing)
+
 
 # CNN Detector 발송 메일 주소 
-[teamnova.ailab@gmail.com](teamnova.ailab@gmail.com)
+: 연구한 CNN Detector로 딥페이크 탐지율을 향상시키는데 기여할 수 있습니다.
+
+이메일 주소 : [teamnova.ailab@gmail.com](teamnova.ailab@gmail.com)
 
 발송시 탐지한 deepfake 알고리즘 기재 및 .pb , .pbtxt , CNN Detector 테스트 파일 전송 부탁드립니다. 
 
-# Contributor
 
+# Contributor
+: 딥페이크 탐지모델 탐지율 향상에 기여한 연구자 목록 
 
