@@ -1,4 +1,6 @@
 # Deepfake-detection-model-based-on-fake-attributes-shown-in-image-video
+20.07.25 수정중
+
 [paper] Deepfake detection model based on fake attributes shown in image/video
 
 동작 동영상 
