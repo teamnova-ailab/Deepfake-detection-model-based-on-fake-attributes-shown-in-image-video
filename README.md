@@ -14,13 +14,21 @@
 # 코드 실행 방법
 
 전체 탐지 모델(deepfake detector 폴더) : 
+1. 폴더 생성 후  pb 파일추가 
+2. 폴더 생성 후 pbtxt 파일추가
+3. 실행할 .py 파일 안에 생성한 폴더 이름으로 모델 추가
+3. 실행할 .py 파일 안에 이미지 가져올 폴더 경로 작성
+4. 코드 실행 
+
 <pre><code>python Main_thread.py</code></pre>
 
 CNN Detector(cnn detector 폴더) : 
 
-   model 폴더 생성 후  pb 파일추가  
-   labelmap 폴더 생성 후 pbtxt 파일추가
-  
+1. model 폴더 생성 후  pb 파일추가  
+2. labelmap 폴더 생성 후 pbtxt 파일추가
+3. 실행할 .py 파일 안에 이미지 가져올 폴더 및 탐지 결과 이미지 저장할 폴더 경로 작성
+4. 코드 실행 
+
 이미지 탐지 
 <pre><code>python Object_detection_image.py</code></pre>
 이미지 탐지  + csv 파일 생성 
