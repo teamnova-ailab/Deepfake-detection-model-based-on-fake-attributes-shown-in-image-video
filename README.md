@@ -18,8 +18,8 @@
 
 CNN Detector(cnn detector 폴더) : 
 
-  model 폴더에 pb 파일추가  
-  labelmap 폴더에 pbtxt 파일추가
+   model 폴더 생성 후  pb 파일추가  
+   labelmap 폴더 생성 후 pbtxt 파일추가
   
 이미지 탐지 
 <pre><code>python Object_detection_image.py</code></pre>
