@@ -3,8 +3,6 @@
 ## **20.07.25 수정중**
 
 ### 딥페이크 탐지 동작 동영상
-[![Watch the video](https://img.youtube.com/vi/aixd8Egw-dA/hqdefault.jpg)](https://youtu.be/aixd8Egw-dA)
-
 [![Video Label](https://img.youtube.com/vi/aixd8Egw-dA/hqdefault.jpg)](https://youtu.be/aixd8Egw-dA)
 
 # Abstract
