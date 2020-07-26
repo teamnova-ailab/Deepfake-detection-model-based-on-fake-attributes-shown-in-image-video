@@ -54,6 +54,7 @@ tensorflow object detection api [[github]](https://github.com/tensorflow/models/
  1. tensorflow object detection api를 설치합니다.
 
  2. [해당 튜토리얼](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)을 참고하여 tensorflow object detection api의 object detection 폴더와 튜토리얼의 일부 폴더 및 파일을 합칩니다.
+ 
  ![폴더 통합](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/blob/master/doc/object_detection_directory.jpg)
 
 (출처 : TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10 깃허브)
