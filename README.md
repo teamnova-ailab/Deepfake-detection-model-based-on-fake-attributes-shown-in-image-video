@@ -70,6 +70,10 @@ tensorflow object detection api [[github]](https://github.com/tensorflow/models/
 
 [Google drive](https://drive.google.com/drive/folders/1r7e7sbfoyVV-INuTLlTw8CoZvBESRWS5?usp=sharing)
 
+# 학습에 사용된 Generated Image 다운로드
+: 다양한 GAN 알고리즘으로 생성된 이미지들을 다운받을 수 있습니다.
+
+[Google drive](https://drive.google.com/drive/folders/1OKiLU6FUf5T1XtaucWVtEFsM5CgwZ9x-?usp=sharing)
 
 # CNN Detector 발송 메일 주소 
 : 연구한 CNN Detector로 딥페이크 탐지율을 향상시키는데 기여할 수 있습니다.
